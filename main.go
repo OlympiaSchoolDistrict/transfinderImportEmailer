@@ -20,8 +20,6 @@ type Config struct {
 	SmtpPort      int
 }
 
-//["tlee@osd.wednet.edu", "deilers@osd.wednet.edu", "tfrazier@osd.wednet.edu"],
-
 func main() {
 	errorPreamble := "Transfinder Import reporter failed\r\n\r\nError message follows:\r\n\r\n"
 
